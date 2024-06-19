@@ -128,7 +128,7 @@ params:
     intro: "Hi, my name is"
     title: "Conrad."
     subtitle: "I build things"
-    content: "A passionate developer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
+    content: "A passionate developer. I tend to make use of modern technologies to build applications that look great, feel fantastic, and function correctly."
     image: "/images/headshot.jpg"
     bottomImage:
       enable: true
@@ -136,15 +136,15 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: https://drive.google.com/file/d/19LWkl2egsdJNpnGrRrRNZAKqNZmyoIOX/view?usp=sharing
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://github.com/csarbak
+        - icon: fab fa-linkedin-in
+          url: https://www.linkedin.com/in/conrad-sarbak-963b41260/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"

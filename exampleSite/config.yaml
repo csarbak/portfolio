@@ -210,11 +210,11 @@ params:
     title: "About Me"
     image: "/images/headshot.png"
     content: |-
-      Hello! I am a software developer with a passion learning and improving. I graduated gradated with a bachelor's degree in Computer Science, magna cum laude, from Rutgers University. In the past, I have Software Developer Intern experience working with financial technology, where I utilized Python, MySQL, and Flask.
+      Hello! I am a software developer with a passion for learning and improving. I graduated gradated with a bachelor's degree in Computer Science, magna cum laude, from Rutgers University. In the past, I have been a Software Developer Intern where I created with financial technology, using Python, MySQL, and Flask.
       
       Recently, I completed Software Engineer training at MThree where I was taught Spring, Java Persistence API (JPA), H2, and the Model, Veiw, Controller (MVC) approach. 
 
-      I am currently working on a project that will be used to help people find the best stocks to buy.
+      I am currently working on a project that will be used to help people find the best stocks to buy using React.js, H2 database, and Java's Spring.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"

@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -155,7 +155,6 @@ params:
 # projects
   projects:
     enable: true
-    weight: 20
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -208,7 +207,6 @@ params:
 # About
   about:
     enable: true
-    weight: 80
     title: "About Me"
     image: "/images/headshot.png"
     content: |-

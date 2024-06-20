@@ -119,7 +119,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -279,7 +279,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner

@@ -147,9 +147,9 @@ params:
           url: https://github.com/csarbak
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/conrad-sarbak-963b41260/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
 
 # projects

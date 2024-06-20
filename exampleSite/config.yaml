@@ -191,7 +191,7 @@ params:
 
       - title: Terminal Tetris
         content: For short coding breaks, a tetris game made using Python and PyGame to give your brain a break.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/tetris.png
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app

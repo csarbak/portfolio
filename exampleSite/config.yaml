@@ -208,7 +208,7 @@ params:
 # About
   about:
     enable: true
-    weight: 30
+    weight: 80
     title: "About Me"
     image: "/images/headshot.png"
     content: |-

@@ -116,8 +116,8 @@ params:
     enableSeparator: false
     menus:
       disableAbout: false
-      disableExperience: false
-      disableEducation: false
+      disableExperience: true
+      disableEducation: true
       disableProjects: false
       disableAchievements: true
       disableContact: false
@@ -171,7 +171,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
@@ -236,7 +236,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:

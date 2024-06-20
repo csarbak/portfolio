@@ -116,7 +116,7 @@ params:
     enableSeparator: false
     menus:
       disableProjects: false
-      disableAbout: true
+      disableAbout: false
       disableContact: false
       disableExperience: true
       disableEducation: true
@@ -155,6 +155,7 @@ params:
 # projects
   projects:
     enable: true
+    weight: 20
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -201,11 +202,13 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
+  
 
 
 # About
   about:
-    enable: false
+    enable: true
+    weight: 30
     title: "About Me"
     image: "/images/headshot.png"
     content: |-
@@ -213,7 +216,7 @@ params:
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
-      enable: false
+      enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"

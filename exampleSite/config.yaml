@@ -119,6 +119,7 @@ params:
       disableExperience: true
       disableEducation: true
       disableProjects: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -170,7 +171,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"

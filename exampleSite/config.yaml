@@ -116,11 +116,12 @@ params:
     enableSeparator: false
     menus:
       disableProjects: false
-      disableAbout: false
+      disableAbout: true
       disableContact: false
       disableExperience: true
       disableEducation: true
       disableAchievements: true
+    sort:
       
 
   # Hero
@@ -204,7 +205,7 @@ params:
 
 # About
   about:
-    enable: true
+    enable: false
     title: "About Me"
     image: "/images/headshot.png"
     content: |-

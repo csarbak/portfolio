@@ -158,8 +158,8 @@ params:
     # title: "Custom Name"
     items:
       - title: Stock Swiper
-        content: Still in development, a Spring, React.js, and Auth0 app that lets you swipe left or right(buy) on stock cards.
-        image: /images/projects/profile.png
+        content: Still in development, a Spring, React.js, and Auth0 app that lets you swipe left or right on stock cards.
+        image: /images/projects/Stock_swiper.png
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
@@ -176,8 +176,8 @@ params:
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Meal Planner
-        content: A web app to help plan meals using Spring, MVC approach, and JDBC Template with MySQL.
-        image: /images/projects/converter.jpg
+        content: A backend REST API application to help plan meals using Spring, MVC approach, and JDBC Template with MySQL.
+        image: /images/projects/meal.png
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
@@ -211,9 +211,9 @@ params:
     title: "About Me"
     image: "/images/headshot.png"
     content: |-
-      Hello! I am a software developer with a passion for learning and improving. I graduated gradated with a bachelor's degree in Computer Science, magna cum laude, from Rutgers University. In the past, I have been a Software Developer Intern where I created financial technology, using Python, MySQL, and Flask.
+      Hello! I am a software developer with a passion for learning and improving. I graduated with a bachelor's degree in Computer Science, magna cum laude, from Rutgers University. In the past, I have been a Software Developer Intern where I created financial technology, using Python, MySQL, and Flask.
       
-      Recently, I completed Software Engineer training at MThree where I was taught Spring, Java Persistence API (JPA), H2, and the Model, Veiw, Controller (MVC) approach. 
+      Recently, I completed Software Engineer training at MThree where I was taught Spring, Java Persistence API (JPA), H2, and the Model, View, Controller (MVC) approach. 
 
       I am currently working on a project that will be used to help people find the best stocks to buy using React.js, H2 database, and Java's Spring.
     skills:
